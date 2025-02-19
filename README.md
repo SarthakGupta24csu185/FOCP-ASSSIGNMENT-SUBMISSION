@@ -1,1 +1,7 @@
-focp2.cpp assignment file contains question 1 to 15 from the assignment part 1 , further question ranging from 16 to 35 has been uploaded as individual files , Assignment part 2 and 3 files of such will be uploaded soon 
+File Organization and Assignment Breakdown
+focp-2.cpp: Contains questions 1 to 15 of Assignment Part 1. These questions are all commented out within this single file.
+
+Assignment Part 1 (Questions 16 to 35): Each question is placed in a separate individual .cpp file.
+
+Upcoming Assignments: Assignment 2 and Assignment 3 will be uploaded shortly and will follow the same structure, with each question in a separate file.
+
